@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yassen
+- 👀 I’m interested in programing...
+- 🌱 I’m currently learning java/python
